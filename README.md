@@ -1,0 +1,3 @@
+# ring0-force-kill-process
+
+查找并使用PspTerminateThreadByPointer函数强制结束进程可以杀360进程
