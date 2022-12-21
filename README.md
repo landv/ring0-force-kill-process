@@ -297,27 +297,27 @@ PVOID SearchMemory(PVOID pStartAddress, PVOID pEndAddress, PUCHAR pMemoryData, U
 
 在 Win7 32 位系统下，驱动程序正常执行：
 
-![](http://www.writebug.com/myres/static/uploads/2021/10/19/b1dc9e02079d770a605fd9188a2f34f4.writebug)
+![](README.assets/b1dc9e02079d770a605fd9188a2f34f4.writebug)
 
 在 Win8.1 32 位系统下，驱动程序正常执行：
 
-![](http://www.writebug.com/myres/static/uploads/2021/10/19/ee18ff48f7a463ac80961d76bcb9a355.writebug)
+![](README.assets/ee18ff48f7a463ac80961d76bcb9a355.writebug)
 
 在 Win10 32 位系统下，驱动程序正常执行：
 
-![](http://www.writebug.com/myres/static/uploads/2021/10/19/7d78176b69f41418058f21628d7c5e28.writebug)
+![](README.assets/7d78176b69f41418058f21628d7c5e28.writebug)
 
 在 Win7 64 位系统下，驱动程序正常执行：
 
-![](http://www.writebug.com/myres/static/uploads/2021/10/19/25c3b14b6f2dca9ec0f4929637a8ad1e.writebug)
+![](README.assets/25c3b14b6f2dca9ec0f4929637a8ad1e.writebug)
 
 在 Win8.1 64 位系统下，驱动程序正常执行：
 
-![](http://www.writebug.com/myres/static/uploads/2021/10/19/315c5c35ffe0db597266923dfcbc8ad1.writebug)
+![](README.assets/315c5c35ffe0db597266923dfcbc8ad1.writebug)
 
 在 Win10 64 位系统下，驱动程序正常执行：
 
-![](http://www.writebug.com/myres/static/uploads/2021/10/19/80c48f4caaff5449c2b3c5fe8ccbdfba.writebug)
+![](README.assets/80c48f4caaff5449c2b3c5fe8ccbdfba.writebug)
 
 # 总结
 
@@ -325,4 +325,4 @@ PVOID SearchMemory(PVOID pStartAddress, PVOID pEndAddress, PUCHAR pMemoryData, U
 
 # 参考
 
-参考自《[Windows黑客编程技术详解](https://www.write-bug.com/article/1811.html "Windows黑客编程技术详解")》一书
+参考自《[Windows黑客编程技术详解]("Windows黑客编程技术详解")》一书
